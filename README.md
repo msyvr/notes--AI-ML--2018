@@ -1,2 +1,2 @@
 # resources---AI-and-machineLearning
-See the wiki for resources for understanding/learning AI and machine learning
+See the wiki for the repo for resources related to AI and machine learning
