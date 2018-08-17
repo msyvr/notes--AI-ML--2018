@@ -1,5 +1,5 @@
 # resources---AI-and-machineLearning
-See the wiki for the repo for resources related to AI and machine learning
+* Resources related to AI and machine learning: in the repo wiki; contents list below
 
 ### Contents as of
 ### 2018.08.17
